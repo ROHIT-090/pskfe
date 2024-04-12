@@ -1,4 +1,4 @@
-/***** CARD STYLES START *****/
+
 
 .card {
   @apply
@@ -22,7 +22,7 @@
   h-full
 }
 
-/***** CARD HEADER STYLES START *****/
+
 
 .cardHeader {
   @apply 
@@ -32,7 +32,6 @@
   shadow-sm
 }
 
-/***** FAVORITES BUTTON STYLES START *****/
 
 .favButton, .removeFavButton {
   @apply
@@ -54,9 +53,6 @@
   text-red-500 flex
 }
 
-/***** FAVORITES BUTTON STYLES END *****/
-
-/***** CARD IMAGE STYLES START *****/
 
 .cardImg {
   @apply 
@@ -77,11 +73,7 @@
   transform: scale(1.02)
 }
 
-/***** CARD IMAGE STYLES START *****/
 
-/***** CARD HEADER STYLES END *****/
-
-/***** CARD BODY STYLES START *****/
 
 .cardBody {
   @apply 
@@ -112,7 +104,6 @@
   truncate 
 }
 
-/***** STAR ICON STYLES START *****/
 
 .rating {
   @apply 
@@ -138,9 +129,9 @@
   text-zinc-900/80 
 }
 
-/***** STAR ICON STYLES END *****/
 
-/***** PRICE STYLES START *****/
+
+
 
 .priceSub, .priceTop {
   @apply
@@ -164,9 +155,6 @@
   align-text-top
 }
 
-/***** PRICE STYLES END *****/
-
-/***** ADD TO CART BUTTON STYLES START *****/
 
 .addToCart {
   @apply
@@ -213,8 +201,3 @@
   font-bold
 }
 
-/***** ADD TO CART BUTTON STYLES END *****/
-
-/***** CARD BODY STYLES END *****/
-
-/***** CARD STYLES END *****/

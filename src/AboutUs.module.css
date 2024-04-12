@@ -51,10 +51,9 @@
   margin-right: 10px;
 }
 
-/* Text color adjustment */
 .container,
 .title,
 .description,
 .contactItem {
-  color: #f0f0f0; /* Pale white text color */
+  color: #f0f0f0; 
 }

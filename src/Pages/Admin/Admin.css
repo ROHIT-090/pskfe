@@ -1,4 +1,4 @@
-* Admin.css */
+
 
 .admin__container {
     margin-top: 80px;
@@ -66,30 +66,29 @@ h2 {
 
 
 
-/* Admin.css */
 .admin__nav {
     margin-top: 50px;
 }
 
 .admin__nav ul {
-    list-style-type: none; /* Remove bullet points */
+    list-style-type: none; 
     margin: 0;
     padding: 0;
-    text-align: center; /* Center align the items */
+    text-align: center;
 }
 
 .admin__nav ul li {
-    display: inline-block; /* Display items horizontally */
-    margin-right: 20px; /* Spacing between items */
+    display: inline-block; 
+    margin-right: 20px; 
 }
 
 .admin__nav ul li a {
-    color: black; /* Text color */
-    text-decoration: none; /* Remove underline */
-    padding: 10px 20px; /* Padding */
-    border-radius: 5px; /* Rounded corners */
+    color: black; 
+    text-decoration: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
 }
 
 .admin__nav ul li a:hover {
-    background-color: skyblue; /* Background color on hover */
+    background-color: skyblue; 
 }

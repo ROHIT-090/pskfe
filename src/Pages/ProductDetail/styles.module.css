@@ -32,7 +32,6 @@
   pb-6
 }
 
-/***** ADD TO CART BUTTON STYLES START *****/
 
 .addToCart {
   @apply
@@ -88,7 +87,7 @@
   font-bold
 }
 
-/***** ADD TO CART BUTTON STYLES END *****/
+
 
 .favButton {
   @apply 
